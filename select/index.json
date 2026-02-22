@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Remember That Night?",
+  "base_artist": "Sara Kays",
+  "createdAt": "2026-02-22T19:27:38.105824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember That Night",
+      "artist": "Grouplove",
+      "has_synced": false,
+      "path": "select/01_Remember_That_Night_Grouplove.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Remember That Night?",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/02_Remember_That_Night_Sara_Kays.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remember That Night?",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/03_Remember_That_Night_Sara_Kays.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Remember That Night",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/04_Remember_That_Night_Sara_Kays.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Remember That Night? - Acoustic",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/05_Remember_That_Night__-_Acoustic_Sara_Kays.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Remember That Night? - Acoustic",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/06_Remember_That_Night__-_Acoustic_Sara_Kays.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remember That Night?",
+      "artist": "Sara Kays",
+      "has_synced": true,
+      "path": "select/07_Remember_That_Night_Sara_Kays.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remember That Night?",
+      "artist": "Sara Kays",
+      "has_synced": false,
+      "path": "select/pl_01_Remember_That_Night_Sara_Kays.txt"
+    }
+  ]
+}
